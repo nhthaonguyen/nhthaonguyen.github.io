@@ -14,6 +14,6 @@ KPMG Virtual Project Certificate (Data Analysis - The Forage)
 <p> Once of my Customer Analysis visualization on Power BI looks like this</p>
 <img src="https://github.com/nhthaonguyen/nhthaonguyen.github.io/blob/main/image/Customer-Segmentation-Viz.png?raw=true"/>
 
-<p> All my repositories are <a href="https://github.com/nhthaonguyen?tab=repositories"><strong>HERE!</strong></a> </p>
+<p> 📌 All my repositories are <a href="https://github.com/nhthaonguyen?tab=repositories"><strong>HERE!</strong></a> </p>
 
 
