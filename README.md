@@ -11,10 +11,12 @@ Since I spent over 4 years in analyzing business finance, financial health, data
 🎓 Certification: IBM Professional Data Analyst Certificate | 
 KPMG Virtual Project Certificate (Data Analysis - The Forage)
 
+<p> 📌 View all projects <a href="https://github.com/nhthaonguyen?tab=repositories"><strong>HERE!</strong></a> </p>
+
+
 <p> Some of my data analysis Visualization </p>
 <img src="https://github.com/nhthaonguyen/nhthaonguyen.github.io/blob/main/image/Customer-Segmentation-Viz.png?raw=true"/>
 <img src="https://github.com/nhthaonguyen/nhthaonguyen.github.io/blob/main/image/Customer-Analysis.png?raw=true"/>
 
-<p> 📌 View all projects <a href="https://github.com/nhthaonguyen?tab=repositories"><strong>HERE!</strong></a> </p>
 
 
