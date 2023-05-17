@@ -16,7 +16,8 @@ KPMG Virtual Project Certificate (Data Analysis - The Forage)
 
 <p> Some of my data analysis Visualization </p>
 <img src="https://github.com/nhthaonguyen/nhthaonguyen.github.io/blob/main/image/Customer-Segmentation-Viz.png?raw=true"/>
+<img src="image/churn-predict-profile.png"/>
 <img src="https://github.com/nhthaonguyen/nhthaonguyen.github.io/blob/main/image/Customer-Analysis.png?raw=true"/>
-
-
+<img src="image/Customer-Clustering-KMeans_page1.jpg"/>
+<img src="image/Customer-Clustering-KMeans_page2.jpg"/>
 
