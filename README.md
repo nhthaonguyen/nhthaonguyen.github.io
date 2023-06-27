@@ -2,7 +2,7 @@
 
 <h2 align="center"> I am passionate about how data tells story and eager to translate insights into actionable, data-driven decision </h2>
 
-Since I spent over 4 years in analyzing business finance, financial health, data models for investment portfolio, competitor analysis, retail distribution analysis for FMCG market, I pursue a career in data analysis in dynamic industry which applied innovation such as Retail, Fintech, Gaming and startups. 
+I have been in retail and finance for over 4 years and am passionate about how data tells story. That's why I expand my skills in Python, SQL, Power BI and Tableau. Learning keeps me motivated and even better when something improves.
 
 🔧 Tools: Python | scikit-learn | SQL | MS Excel Power BI | Tableau | Cognos
 
