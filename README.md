@@ -6,7 +6,7 @@ I have been in retail and finance for over 4 years and am passionate about how d
 
 🔧 Tools: SQL | Python | scikit-learn | MS Excel | Power BI | Tableau 
 
-🌥 Cloud data warehouse: Google Big Query | IBM Db2
+🌥 Cloud data warehouse: | Google Big Query | IBM Db2
 
 🎓 Certification: IBM Professional Data Analyst Certificate | 
 KPMG Virtual Project Certificate (Data Analysis - The Forage) |
