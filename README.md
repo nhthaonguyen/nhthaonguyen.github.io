@@ -4,12 +4,13 @@
 
 I have been in retail and finance for over 4 years and am passionate about how data tells story. That's why I expand my skills in Python, SQL, Power BI and Tableau. Learning keeps me motivated and even better when something improves.
 
-🔧 Tools: Python | scikit-learn | SQL | MS Excel | Power BI | Tableau 
+🔧 Tools: SQL | Python | scikit-learn | MS Excel | Power BI | Tableau 
 
-🌥 Cloud platform that I have chance to work with: IBM Db2
+🌥 Cloud data warehouse: Google Big Query | IBM Db2
 
 🎓 Certification: IBM Professional Data Analyst Certificate | 
-KPMG Virtual Project Certificate (Data Analysis - The Forage)
+KPMG Virtual Project Certificate (Data Analysis - The Forage) |
+Data Camp Customer Analytics & A/B Testing in Python
 
 <p> 📌 View all projects <a href="https://github.com/nhthaonguyen?tab=repositories"><strong>HERE!</strong></a> </p>
 
