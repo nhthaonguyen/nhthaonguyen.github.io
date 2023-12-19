@@ -14,7 +14,11 @@ Data Camp Customer Analytics & A/B Testing in Python
 
 <p> 📌 View all projects <a href="https://github.com/nhthaonguyen?tab=repositories"><strong>HERE!</strong></a> </p>
 
-<p> 👇🏼 Predict churn probability of a customer using machine learning model, visualized as a report in Tableau 👇🏼 </p>
+<p> 👇🏼 Predict churning reasons using machine learning model, visualized in Tableau 👇🏼 </p>
+<img src="image/churn-predict1.png"/>
+<img src="image/churn-predict2.png"/>
+
+<p> 👇🏼 Predict a customer churn probability using machine learning model, visualized as a report in Tableau 👇🏼 </p>
 <img src="image/churn-predict-profile.png"/>
 
 <p> 👇🏼 Clustering customer using machine learning model, visualized as a report in Tableau 👇🏼 </p>
