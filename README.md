@@ -1,18 +1,18 @@
-<h1 align="center"> Hi 👋, I'm Thao - A Junior Data Analyst </h1>
+<h1 align="center"> Hi 👋, I'm Thao </h1>
 
-<h2 align="center"> I am passionate about how data tells story and eager to translate insights into actionable, data-driven decision </h2>
+<h4 align="center"> I am life learner, a junior data analytics enthusiast, having working experience in FMCG and finance domain for 4 years. Skilled in data analysis and market research using Python, SQL, Microsoft Excel, Tableau and Power BI. Currently, I focus on predictive and statistical analytics </h4>
 
-I have been in retail and finance for over 4 years and am passionate about how data tells story. That's why I expand my skills in Python, SQL, Power BI and Tableau. Learning keeps me motivated and even better when something improves.
+🔧 Tools: SQL | Python | scikit-learn | MS Excel | Power BI | Tableau | Metabase 
 
-🔧 Tools: SQL | Python | scikit-learn | MS Excel | Power BI | Tableau 
-
-🌥 Cloud data warehouse: | Google Big Query | IBM Db2
+🌥 Data warehouse: MySQL Workbench | Google Big Query | IBM Db2
 
 🎓 Certification: IBM Professional Data Analyst Certificate | 
 KPMG Virtual Project Certificate (Data Analysis - The Forage) |
 Data Camp Customer Analytics & A/B Testing in Python
 
-<p> 📌 View all projects <a href="https://github.com/nhthaonguyen?tab=repositories"><strong>HERE!</strong></a> </p>
+<h6> 📌 View all projects code <a href="https://github.com/nhthaonguyen?tab=repositories"><strong>HERE!</strong></a> </h6>
+
+Below is some of my analysis with visualization
 
 <p> 👇🏼 Predict churning reasons using machine learning model, visualized in Tableau 👇🏼 </p>
 <img src="image/churn-predict1.png"/>
