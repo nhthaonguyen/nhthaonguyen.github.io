@@ -14,11 +14,17 @@ Data Camp Customer Analytics & A/B Testing in Python
 
 <p> 📌 View all projects <a href="https://github.com/nhthaonguyen?tab=repositories"><strong>HERE!</strong></a> </p>
 
-
-<p> Some of my data analysis Visualization </p>
-<img src="https://github.com/nhthaonguyen/nhthaonguyen.github.io/blob/main/image/Customer-Segmentation-Viz.png?raw=true"/>
+<p> 👇🏼 Predict churn probability of a customer using machine learning model, visualized as a report in Tableau 👇🏼 </p>
 <img src="image/churn-predict-profile.png"/>
-<img src="https://github.com/nhthaonguyen/nhthaonguyen.github.io/blob/main/image/Customer-Analysis.png?raw=true"/>
+
+<p> 👇🏼 Clustering customer using machine learning model, visualized as a report in Tableau 👇🏼 </p>
 <img src="image/Customer-Clustering-KMeans_page1.jpg"/>
 <img src="image/Customer-Clustering-KMeans_page2.jpg"/>
+
+<p> 👇🏼 Customer Segmentation using Recency-Frequency-Monetary analysis, visualized in Power BI 👇🏼 </p>
+<img src="https://github.com/nhthaonguyen/nhthaonguyen.github.io/blob/main/image/Customer-Segmentation-Viz.png?raw=true"/>
+
+<p> 👇🏼 Customer analysis report, visualized in Tableau 👇🏼 </p>
+<img src="https://github.com/nhthaonguyen/nhthaonguyen.github.io/blob/main/image/Customer-Analysis.png?raw=true"/>
+
 
