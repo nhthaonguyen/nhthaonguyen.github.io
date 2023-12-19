@@ -2,7 +2,7 @@
 
 <h4 align="center"> I am life learner, a junior data analytics enthusiast, having working experience in FMCG and finance domain for 4 years. Skilled in data analysis and market research using Python, SQL, Microsoft Excel, Tableau and Power BI. Currently, I focus on predictive and statistical analytics </h4>
 
-🔧 Tools: SQL | Python | scikit-learn | MS Excel | Power BI | Tableau | Metabase 
+🔧 Tools: | SQL | Python | scikit-learn | MS Excel | Power BI | Tableau | Metabase 
 
 🌥 Data warehouse: MySQL Workbench | Google Big Query | IBM Db2
 
