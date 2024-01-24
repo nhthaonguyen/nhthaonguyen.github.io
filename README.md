@@ -14,6 +14,9 @@ Data Camp Customer Analytics & A/B Testing in Python
 
 Below is some of my analysis with visualization
 
+<p> 👇🏼 Forecasting sales - timeseries model 👇🏼 </p>
+<img src="image/forecasting-chart.png"/>
+
 <p> 👇🏼 Predict churning reasons using machine learning model, visualized in Tableau 👇🏼 </p>
 <img src="image/churn-predict1.png"/>
 <img src="image/churn-predict2.png"/>
